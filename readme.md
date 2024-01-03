@@ -1,5 +1,5 @@
 
-# Church Management App
+# Gloryhouse Management App
 
 This is a Church Management App that provides a variety of features for managing a church's activities, members, events, and content. The app includes an attendance system, blog, podcast, polls and surveys, pledges, offering and donation, prayer requests, contacts, and scheduling meetings, among other things.
 
